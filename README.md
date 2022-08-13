@@ -3,7 +3,7 @@
 <p align="center">
  📝 Apresentação <br> 
     App Criado para gerenciar solicitações de serviços de uma empresa.  <br> 
-    Desenvolvido na edição ignite lab da rocketseat.<br>    
+    Desenvolvido na edição ignite lab React Native da rocketseat.<br>    
 </p>
 
 
